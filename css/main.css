@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
 }
 nav ul, footer ul {
     font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
@@ -28,12 +27,12 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    font-family: "Copperplate", "Didot", serif;
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    font-family: "Copperplate", "Didot", serif;
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
 }
 
 ul.posts { 
