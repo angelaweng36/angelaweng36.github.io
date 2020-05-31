@@ -21,18 +21,18 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
+    font-family: fantasy;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
+    font-family: fantasy;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
+    font-family: fantasy;
 }
 
 ul.posts { 
