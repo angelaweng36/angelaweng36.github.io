@@ -9,6 +9,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
     display: inline;
     margin-right: 20px;
 }
@@ -25,10 +26,10 @@ h1 {
 }
 h2 {
     font-size: 1.5em;
-    font-family: "Avantgarde", serif;
+    font-family: "Papyrus", fantasy;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
     font-family: "Papyrus", fantasy;
@@ -36,7 +37,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    font-family: fantasy;
+    font-family: "Papyrus",fantasy;
 }
 
 ul.posts { 
