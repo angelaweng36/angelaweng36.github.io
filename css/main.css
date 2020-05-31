@@ -22,11 +22,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: "Avantgarde", sans-serif;
+    font-family: "Papyrus", fantasy;
 }
 h2 {
     font-size: 1.5em;
-    font-family: "Papyrus", fantasy;
+    font-family: "Palatino", serif;
 }
 p {
     font-size: 1.2em;
@@ -37,7 +37,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    font-family: "Papyrus",fantasy;
+    font-family: "Fantasy",fantasy;
 }
 
 ul.posts { 
