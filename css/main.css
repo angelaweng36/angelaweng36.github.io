@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
 }
 nav ul, footer ul {
     font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", serif;
@@ -21,7 +22,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:"Copperplate", "Didot", serif;
+    font-family: "Copperplate", "Didot", serif;
 }
 p {
     font-size: 1.5em;
